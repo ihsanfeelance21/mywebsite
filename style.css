@@ -206,3 +206,45 @@ nav ul li a.active {
   margin: 0;
   line-height: 1.5;
 }
+
+.hero {
+  background-color: #e4bba1;
+  padding: 100px;
+}
+
+.sub-judul {
+  font-size: 32px;
+  color: black;
+  font-weight: 300;
+}
+
+.bold-judul {
+  font-weight: 700;
+}
+
+.judul {
+  font-size: 64px;
+  font-weight: 900;
+  color: #003e29;
+}
+
+.tombol {
+  background-color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 37px;
+  padding-right: 37px;
+  margin-top: 29px;
+  font-weight: 700;
+  font-size: 20;
+  color: black;
+  border-width: 0px;
+  /* border-style: dotted; */
+  /* border-color: red; */
+  border-radius: 10px;
+}
+
+.gambar {
+  width: 500px;
+  height: 500px;
+}
